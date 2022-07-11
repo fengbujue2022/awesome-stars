@@ -28,7 +28,6 @@
 - [Standard ML](#standard-ml)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
-- [Vue](#vue)
 
 ## C 
 
@@ -409,6 +408,7 @@
 
 ## TypeScript 
 
+- [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
@@ -501,8 +501,6 @@
 - [kimamula/ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - A TypeScript custom transformer which enables to obtain keys of given type
 - [nullcc/ts-retrofit](https://github.com/nullcc/ts-retrofit) - A declarative and axios based retrofit implementation for JavaScript and TypeScript.
 - [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
-- [iconfont-cli/react-native-iconfont-cli](https://github.com/iconfont-cli/react-native-iconfont-cli) - 把iconfont.cn的图标转换成标准RN组件，不依赖字体，支持多色彩，支持热更新
-- [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [wcandillon/can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
@@ -518,25 +516,13 @@
 - [pengkobe/ionic4-boilerplate](https://github.com/pengkobe/ionic4-boilerplate) - :rocket: boilerplate for ionic4 with CI based on travis and fastlane. doc and example are provided
 - [HWliao/mng](https://github.com/HWliao/mng) - my angular templates and tools
 - [DimaLiLongJi/InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm library.一个类 angular Web mvvm库。https://dimalilongji.github.io/InDiv
-- [fivethree-team/ionic-4-components](https://github.com/fivethree-team/ionic-4-components) - 🍕 Ionic 4 UI Component Library. Featuring Image Gallery, Refresher, Bottom Sheet and more.
-- [bsdfzzzy/ngx-waterfall](https://github.com/bsdfzzzy/ngx-waterfall) - A waterfall component implementation for Angular. Continue maintaining.
-- [NateScarlet/auto-dragalia](https://github.com/NateScarlet/auto-dragalia) - :dragon_face::iphone:《失落的龙约》 [Auto.js](https://github.com/hyb1996/Auto.js) 辅助脚本 因游戏将停止运营而归档 archived due to the game about to end of life
-- [ionicthemes/ionic-navigation-and-routing](https://github.com/ionicthemes/ionic-navigation-and-routing) - 🎉 Ionic 5 tutorial to learn how to master Routing and Navigation in Ionic Angular Apps as well as some usability tricks you can add to your Ionic Framework apps to make them look even better!
 - [maxisam/ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
-- [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
 ## Vim script 
 
 - [mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx) - P站（Pixiv）的正确打开方式
-
-## Vue 
-
-- [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
-- [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-- [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-- [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 
 
 ## License
