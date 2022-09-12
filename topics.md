@@ -95,7 +95,6 @@
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [publishing](#publishing)
-- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [react](#react)
@@ -1000,10 +999,6 @@
 ## publishing 
 
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-
-## pwa 
-
-- [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 
 ## python 
 
