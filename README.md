@@ -95,7 +95,7 @@
 - [rdvojmoc/DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 - [VahidN/iTextSharp.LGPLv2.Core](https://github.com/VahidN/iTextSharp.LGPLv2.Core) - iTextSharp.LGPLv2.Core  is an unofficial port of the last LGPL version of the iTextSharp (V4.1.6) to .NET Core
 - [commandlineparser/commandline](https://github.com/commandlineparser/commandline) - The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support
-- [filipw/dotnet-script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
+- [dotnet-script/dotnet-script](https://github.com/dotnet-script/dotnet-script) - Run C# scripts from the .NET CLI.
 - [TomaszRewak/C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications
 - [Senparc/Senparc.CO2NET](https://github.com/Senparc/Senparc.CO2NET) - 支持 .NET Framework & .NET Core 的公共基础扩展库
 - [i3arnon/ConcurrentHashSet](https://github.com/i3arnon/ConcurrentHashSet) - A ConcurrentHashSet implementation
@@ -159,7 +159,7 @@
 - [tangxuehua/enode](https://github.com/tangxuehua/enode) - ENode is a framework aims to help us developing ddd, cqrs, eda, and event sourcing style applications.
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [Pathoschild/FluentHttpClient](https://github.com/Pathoschild/FluentHttpClient) - A modern async HTTP client for REST APIs. Its fluent interface lets you send an HTTP request and parse the response in one go.
-- [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Port of Akka actors for .NET
+- [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
 - [domaindrivendev/Swashbuckle.WebApi](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a swagger to WebApi projects!
 - [FluentIL/FluentIL](https://github.com/FluentIL/FluentIL) - 
 - [steveleeCN87/GofForCSharp](https://github.com/steveleeCN87/GofForCSharp) - Implementation of 23 design patterns c#
@@ -173,7 +173,7 @@
 - [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [kekyo/IL2C](https://github.com/kekyo/IL2C) - IL2C - A translator for ECMA-335 CIL/MSIL to C language.
-- [mono/cecil](https://github.com/mono/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+- [dotnet/cecil](https://github.com/dotnet/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 - [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 - [dotnetcore/Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，
@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
@@ -231,6 +232,7 @@
 
 ## Java 
 
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.1 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5, JDK 18, NDK 25, CMake 📓 Storybook 6b +addons 🍎 Xcode 14.1b, Monterey 13b 🧩 Yarn 3.2 (4 🚧) ESLint 🧹
 - [bardliu/react-native-shadow-android](https://github.com/bardliu/react-native-shadow-android) - 
 - [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -240,6 +242,8 @@
 
 ## JavaScript 
 
+- [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
+- [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
@@ -358,10 +362,12 @@
 
 ## Objective-C 
 
+- [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
 - [xiaoyafei/AFShop](https://github.com/xiaoyafei/AFShop) - 一个开源的iOS电商APP，持续更新
 
 ## Others 
 
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
