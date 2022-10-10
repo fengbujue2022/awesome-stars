@@ -232,7 +232,7 @@
 
 ## Java 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.1 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5, JDK 18, NDK 25, CMake 📓 Storybook 6b +addons 🍎 Xcode 14.1b, Monterey 13b 🧩 Yarn 3.2 (4 🚧) ESLint 🧹
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.1 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5, JDK 18+, NDK 25, CMake 📓 Storybook 6b +addons 🍎 Xcode 14.1b, Monterey 13b 🧩 Yarn 3.2 (4 🚧) ESLint 
 - [bardliu/react-native-shadow-android](https://github.com/bardliu/react-native-shadow-android) - 
 - [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -368,6 +368,7 @@
 
 ## Others 
 
+- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
