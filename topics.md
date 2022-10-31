@@ -151,7 +151,7 @@
 ## android 
 
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -159,13 +159,14 @@
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) - 一个支持免代理直连及查看动图的第三方Pixiv android客户端
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 
 ## angular 
 
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+- [sketch7/orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [TrilonIO/universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
 - [DynamicMapper/DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
 - [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD.
@@ -201,7 +202,7 @@
 
 ## automation 
 
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
 ## awesome 
@@ -235,7 +236,8 @@
 
 ## babel 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - ⚡️ Speed up your Webpack build with esbuild
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -284,6 +286,7 @@
 
 ## compiler 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
@@ -460,7 +463,7 @@
 
 ## eslint 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 - [mthadley/eslint-plugin-sort-destructure-keys](https://github.com/mthadley/eslint-plugin-sort-destructure-keys) - ESLint plugin to check if keys should be sorted in an object pattern.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -478,6 +481,7 @@
 
 ## framework 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
@@ -532,7 +536,7 @@
 
 ## gradle 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 
 ## graphql 
 
@@ -540,6 +544,7 @@
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [sketch7/orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
 
 ## hacktoberfest 
@@ -562,7 +567,7 @@
 - [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 - [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML A
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -570,6 +575,7 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [FantasticFiasco/serilog-sinks-http](https://github.com/FantasticFiasco/serilog-sinks-http) - A Serilog sink sending log events over HTTP.
+- [sketch7/orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
@@ -616,7 +622,7 @@
 ## ios 
 
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -638,6 +644,8 @@
 
 ## javascript 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -647,7 +655,7 @@
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -675,7 +683,7 @@
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [microsoft/ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -684,7 +692,7 @@
 - [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [DynamicMapper/DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
 - [DimaLiLongJi/InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm library.一个类 angular Web mvvm库。https://dimalilongji.github.io/InDiv
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [Jimmey-Jiang/Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
 
@@ -757,7 +765,7 @@
 
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [luncheon/ripplet.js](https://github.com/luncheon/ripplet.js) - Fully controllable vanilla-js material design ripple effect generator.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [tomastrajan/angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
 
@@ -834,6 +842,7 @@
 - [RyanZim/universalify](https://github.com/RyanZim/universalify) - Make a callback- or promise-based function support both promises and callbacks.
 - [TrilonIO/universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [liuxing/node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
@@ -942,7 +951,6 @@
 - [Cysharp/ZString](https://github.com/Cysharp/ZString) - Zero Allocation StringBuilder for .NET Core and Unity.
 - [kimamula/ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - A TypeScript custom transformer which enables to obtain keys of given type
 - [nullcc/ts-retrofit](https://github.com/nullcc/ts-retrofit) - A declarative and axios based retrofit implementation for JavaScript and TypeScript.
-- [sketch7/orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [brminnick/AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
 - [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
@@ -1124,7 +1132,7 @@
 - [jaredLunde/masonic](https://github.com/jaredLunde/masonic) - 🧱 High-performance masonry layouts for React
 - [liam61/blog](https://github.com/liam61/blog) - Lawler's Blog 不定期分享一些前端技术
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [liximomo/react-virtual-scroller](https://github.com/liximomo/react-virtual-scroller) - A react implementation of twitter VirtualScroller.
 - [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
@@ -1148,7 +1156,7 @@
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
@@ -1213,6 +1221,7 @@
 
 ## rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 
 ## sass 
@@ -1257,7 +1266,7 @@
 
 ## storybook 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 
 ## swift 
 
@@ -1283,13 +1292,14 @@
 
 ## typescript 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
@@ -1310,7 +1320,7 @@
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [cevek/ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
 - [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
@@ -1326,7 +1336,7 @@
 
 ## ubuntu 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 
 ## unity 
@@ -1357,6 +1367,7 @@
 
 ## web 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
 ## webapp 
@@ -1365,6 +1376,7 @@
 
 ## webpack 
 
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - ⚡️ Speed up your Webpack build with esbuild
 - [Kiyozz/electron-esbuild](https://github.com/Kiyozz/electron-esbuild) - Create Electron apps using esbuild and your favorite frontend tool
@@ -1396,7 +1408,7 @@
 ## xcode 
 
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.3 ⚡ M1/2, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.5 (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
 
 ## xml 
 
