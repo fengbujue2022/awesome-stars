@@ -230,7 +230,7 @@
 
 ## Java 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚄 Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pret
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pre
 - [bardliu/react-native-shadow-android](https://github.com/bardliu/react-native-shadow-android) - 
 - [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
