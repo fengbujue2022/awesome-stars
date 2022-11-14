@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -230,7 +231,8 @@
 
 ## Java 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.4 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 4.9b ✅ Gradle 7.6rc (8 🚧) , JDK 19, NDK 25, CMake 🍎 Monterey 13.1b, Xcode 14.1rc, ccache 🧩 Yarn 3.2 (4 🚧) ESLint 🧹 Pre
+- [medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.5 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc (8 🚧), JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 4rc 🧩 ESLint 🧹 Prettier ✨ Me
 - [bardliu/react-native-shadow-android](https://github.com/bardliu/react-native-shadow-android) - 
 - [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -240,6 +242,9 @@
 
 ## JavaScript 
 
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in plain JavaScript with zero dependencies.
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -294,7 +299,7 @@
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [flatlogic/react-native-starter](https://github.com/flatlogic/react-native-starter) - 🚀A powerful react native starter template that bootstraps development of your mobile application
 - [y805939188/simple-react](https://github.com/y805939188/simple-react) - this is a simple react framework
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
@@ -318,7 +323,7 @@
 - [nysamnang/react-native-raw-bottom-sheet](https://github.com/nysamnang/react-native-raw-bottom-sheet) - Add Your Own Component To Bottom Sheet Whatever You Want (Android and iOS)
 - [halilb/react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops.
 - [lqqyt2423/google-translate-cn-api](https://github.com/lqqyt2423/google-translate-cn-api) - node.js 实现谷歌翻译 api，命令行工具 command line
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [WarnerHooh/babel-plugin-parameter-decorator](https://github.com/WarnerHooh/babel-plugin-parameter-decorator) - Function parameter decorator transform plugin for babel v7, just like typescript.
 - [GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
@@ -408,10 +413,10 @@
 ## Rust 
 
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## SCSS 
 
@@ -432,6 +437,8 @@
 
 ## TypeScript 
 
+- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
+- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
@@ -528,7 +535,7 @@
 - [waynecz/tiny-react-with-hooks](https://github.com/waynecz/tiny-react-with-hooks) - ⚛︎ Fundamental Implementation of React with Hooks & VDOM
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 - [jobtoday/react-native-image-viewing](https://github.com/jobtoday/react-native-image-viewing) - Tiny, purely TS, modal component for viewing images 🏙
-- [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) - A simple React Native library, enabling to create a fully custom header for your iOS and Android apps.
+- [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) - A simple React Native library, enabling the creation of fully customized header for your iOS and Android apps.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
