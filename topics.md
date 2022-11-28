@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -151,10 +152,14 @@
 - [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
+## analytics 
+
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+
 ## android 
 
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -172,7 +177,7 @@
 - [sketch7/orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [TrilonIO/universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
 - [DynamicMapper/DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD.
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, ASP.NET Core, Entity Framework Core, C#, Angular 15, Clean Code, SOLID, DDD.
 - [tomastrajan/angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
 - [maxisam/ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
@@ -244,7 +249,7 @@
 ## babel 
 
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - ⚡️ Speed up your Webpack build with esbuild
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -333,7 +338,7 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD.
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, ASP.NET Core, Entity Framework Core, C#, Angular 15, Clean Code, SOLID, DDD.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
 - [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
@@ -434,7 +439,7 @@
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD.
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, ASP.NET Core, Entity Framework Core, C#, Angular 15, Clean Code, SOLID, DDD.
 - [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [tmenier/Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
@@ -471,7 +476,7 @@
 
 ## eslint 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 - [mthadley/eslint-plugin-sort-destructure-keys](https://github.com/mthadley/eslint-plugin-sort-destructure-keys) - ESLint plugin to check if keys should be sorted in an object pattern.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -544,7 +549,7 @@
 
 ## gradle 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 
 ## graphql 
 
@@ -626,7 +631,7 @@
 ## ios 
 
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -954,7 +959,7 @@
 - [arackaf/customize-cra](https://github.com/arackaf/customize-cra) - Override webpack configurations for create-react-app 2.0
 - [kevin-montrose/Sigil](https://github.com/kevin-montrose/Sigil) - A fail-fast validating helper for .NET CIL generation
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [Chocolatl/eh-parser](https://github.com/Chocolatl/eh-parser) - 解析E站各个页面的元数据
+- [chocolatl/eh-parser](https://github.com/chocolatl/eh-parser) - 解析E站各个页面的元数据
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 - [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - [halilb/react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops.
@@ -1049,7 +1054,7 @@
 - [jonwagner/Insight.Database](https://github.com/jonwagner/Insight.Database) - Fast, lightweight .NET micro-ORM
 - [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [bjornharrtell/jsts](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite
-- [dotnet/cecil](https://github.com/dotnet/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+- [dotnet/cecil](https://github.com/dotnet/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
 - [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provid
 - [MisterChangRay/Mtils2](https://github.com/MisterChangRay/Mtils2) - Mtils是一套前端辅助代码集合，提供常用的数据校验、数据加密、扩展函数、便捷函数。
@@ -1171,7 +1176,7 @@
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
@@ -1285,7 +1290,7 @@
 
 ## storybook 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 
 ## swift 
 
@@ -1316,7 +1321,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
@@ -1351,12 +1356,12 @@
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD.
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, ASP.NET Core, Entity Framework Core, C#, Angular 15, Clean Code, SOLID, DDD.
 - [DimaLiLongJi/InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm library.一个类 angular Web mvvm库。https://dimalilongji.github.io/InDiv
 
 ## ubuntu 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 
 ## unity 
@@ -1428,7 +1433,7 @@
 ## xcode 
 
 - [shahen94/react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/compressing  :movie_camera: library for React-Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6rc, JDK 19, NDK 25, CMake 🍎 Xcode 14.1, Ventura 13.1b, ccache 📦 Yarn 3 (4rc 🚧) ESLint 🧹 Prettier ✨ Blaz
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
 
 ## xml 
 
