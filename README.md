@@ -178,7 +178,7 @@
 - [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 - [dotnetcore/Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
-- [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provid
+- [ElderJames/shriek-fx](https://github.com/ElderJames/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provid
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [ice-ko/QuartzNetJob](https://github.com/ice-ko/QuartzNetJob) - Asp.Net Core 2.0 后端任务管理
 - [geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
@@ -232,7 +232,7 @@
 ## Java 
 
 - [medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.1, Ventura 13.1b, Ruby 3, ccache 📦 Yarn 4rc 🧱  ESLint 🧹 Prettie
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.70.6 ⚡ M1, Ubuntu 💻 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TypeScript 5d ✅ Gradle 7.6, JDK 19, NDK 25, CMake 3.25 🍎 Xcode 14.2, Ventura 13.1, Ruby 3, ccache ♻️ Yarn 4rc 📦  ESLint 🧹 Prettie
 - [bardliu/react-native-shadow-android](https://github.com/bardliu/react-native-shadow-android) - 
 - [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -329,7 +329,7 @@
 - [GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
 - [fram-x/FluidTransitions](https://github.com/fram-x/FluidTransitions) - Fluid Transitions for React Navigation
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [RyanZim/universalify](https://github.com/RyanZim/universalify) - Make a callback- or promise-based function support both promises and callbacks.
 - [tokkozhin/react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) - Shadows and neumorphism/neomorphism for iOS & Android (like iOS).
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
@@ -371,6 +371,7 @@
 
 ## Others 
 
+- [goto456/stopwords](https://github.com/goto456/stopwords) - 中文常用停用词表（哈工大停用词表、百度停用词表等）
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
