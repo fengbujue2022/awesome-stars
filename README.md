@@ -116,7 +116,7 @@
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 - [GowenGit/meepo](https://github.com/GowenGit/meepo) - .NET Core duplex framework using sockets
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - DotNet 7, Angular 15, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princ
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 15, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
 - [CallStackRunner/RollbackableOperations](https://github.com/CallStackRunner/RollbackableOperations) - A .NET library for operations execution/rollback management
 - [sprache/Sprache](https://github.com/sprache/Sprache) - A tiny, friendly, C# parser construction library
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
