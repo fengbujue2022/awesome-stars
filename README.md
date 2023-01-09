@@ -309,7 +309,7 @@
 - [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc - Custom-Element for OpenAPI Spec
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [Pavneet-Sing/bounce-react-animation](https://github.com/Pavneet-Sing/bounce-react-animation) - Bouncing ball animation implementation in react using requestAnimationFrame.
-- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [react-native-web-community/react-native-web-webview](https://github.com/react-native-web-community/react-native-web-webview) - React Native for Web implementation of RN's WebView
 - [codrops/RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 - [Js-Brecht/babel-plugin-tsconfig-paths](https://github.com/Js-Brecht/babel-plugin-tsconfig-paths) - Resolve imports/requires based on path aliases in tsconfig.json
