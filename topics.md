@@ -30,6 +30,7 @@
 - [cli](#cli)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -169,7 +170,7 @@
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
 - [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) - 一个支持免代理直连及查看动图的第三方Pixiv android客户端
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 
 ## angular 
 
@@ -216,7 +217,7 @@
 
 ## automation 
 
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
 ## awesome 
@@ -310,6 +311,10 @@
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+
+## computer-vision 
+
+- [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients
 
 ## config 
 
@@ -711,7 +716,7 @@
 - [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [DynamicMapper/DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
 - [DimaLiLongJi/InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm library.一个类 angular Web mvvm库。https://dimalilongji.github.io/InDiv
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [Jimmey-Jiang/Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
 
@@ -867,7 +872,7 @@
 - [RyanZim/universalify](https://github.com/RyanZim/universalify) - Make a callback- or promise-based function support both promises and callbacks.
 - [TrilonIO/universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [liuxing/node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
@@ -886,7 +891,6 @@
 ## others 
 
 - [goto456/stopwords](https://github.com/goto456/stopwords) - 中文常用停用词表（哈工大停用词表、百度停用词表等）
-- [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [gajus/liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser, serializer and search engine.
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
@@ -1005,7 +1009,6 @@
 - [perrich/Hangfire.MemoryStorage](https://github.com/perrich/Hangfire.MemoryStorage) - A memory storage for Hangfire.
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [sovetskyfish/pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
-- [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 - [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 6 application with DDD, CQRS and Event Sourcing concepts
 - [dotnet/standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [upbit/pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
@@ -1138,7 +1141,7 @@
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1193,7 +1196,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -1343,7 +1346,7 @@
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
 - [dependents/node-dependency-tree](https://github.com/dependents/node-dependency-tree) - Get the dependency tree of a module
 - [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
@@ -1415,6 +1418,7 @@
 ## webpack 
 
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 - [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
 - [Kiyozz/electron-esbuild](https://github.com/Kiyozz/electron-esbuild) - Create Electron apps using esbuild and your favorite frontend tool
