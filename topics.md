@@ -321,7 +321,7 @@
 ## computer-vision 
 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients
+- [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 
 ## config 
 
@@ -437,7 +437,7 @@
 
 ## documentation 
 
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -688,7 +688,7 @@
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
@@ -1146,7 +1146,7 @@
 
 ## react 
 
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
@@ -1466,7 +1466,7 @@
 
 ## website 
 
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
