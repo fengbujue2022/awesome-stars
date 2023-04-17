@@ -14,6 +14,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
@@ -347,6 +348,10 @@
 - [DMQ/puppeteer-soso](https://github.com/DMQ/puppeteer-soso) - 使用puppeteer搞点事情
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 
+## Jupyter Notebook 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## Kotlin 
 
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
@@ -432,10 +437,11 @@
 
 ## TypeScript 
 
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [enricoros/nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [gajus/liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser, serializer and search engine.
