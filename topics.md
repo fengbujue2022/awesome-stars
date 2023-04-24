@@ -225,13 +225,14 @@
 ## automation 
 
 - [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## awesome 
 
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -294,7 +295,7 @@
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## chrome-extension 
 
@@ -710,6 +711,7 @@
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
@@ -730,7 +732,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [microsoft/ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
@@ -749,7 +751,6 @@
 ## js 
 
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
@@ -1181,7 +1182,7 @@
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1236,7 +1237,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -1371,9 +1372,9 @@
 ## testing 
 
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## typescript 
 
@@ -1388,10 +1389,11 @@
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
 - [dependents/node-dependency-tree](https://github.com/dependents/node-dependency-tree) - Get the dependency tree of a module
 - [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
@@ -1459,7 +1461,7 @@
 ## web 
 
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## webapp 
 
@@ -1468,7 +1470,7 @@
 ## webpack 
 
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 - [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
 - [Kiyozz/electron-esbuild](https://github.com/Kiyozz/electron-esbuild) - Create Electron apps using esbuild and your favorite frontend tool
