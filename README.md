@@ -483,7 +483,7 @@
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [shm-open/code-push-server](https://github.com/shm-open/code-push-server) - CodePush service is an app hot update service which is compatible with react-native-code-push and other CodePush clients
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [remorses/vitro](https://github.com/remorses/vitro) - Build and showcase your react components in isolation
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
@@ -517,7 +517,7 @@
 - [nuclearpasta/react-native-drax](https://github.com/nuclearpasta/react-native-drax) - A drag-and-drop system for React Native
 - [gorhom/react-native-portal](https://github.com/gorhom/react-native-portal) - A simplified portal implementation for ⭕️ React Native & Web ⭕️.
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [jaredLunde/masonic](https://github.com/jaredLunde/masonic) - 🧱 High-performance masonry layouts for React
 - [react-component/util](https://github.com/react-component/util) - Common Utils For React Component
@@ -563,7 +563,7 @@
 - [DimaLiLongJi/InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm framework.一个类 angular 前端框架。https://dimalilongji.github.io/InDiv
 - [maxisam/ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## Vim Script 
 
