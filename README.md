@@ -105,7 +105,7 @@
 - [Dasync/AsyncEnumerable](https://github.com/Dasync/AsyncEnumerable) - Defines IAsyncEnumerable, IAsyncEnumerator, ForEachAsync(), ParallelForEachAsync(), and other useful stuff to use with async-await
 - [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 6 application with DDD, CQRS and Event Sourcing concepts
 - [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [Martin1994/JsonJitSerializer](https://github.com/Martin1994/JsonJitSerializer) - A JIT JSON Serializer for .NET Core 3.0
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
@@ -115,7 +115,7 @@
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 - [GowenGit/meepo](https://github.com/GowenGit/meepo) - .NET Core duplex framework using sockets
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 15, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 16, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
 - [CallStackRunner/RollbackableOperations](https://github.com/CallStackRunner/RollbackableOperations) - A .NET library for operations execution/rollback management
 - [sprache/Sprache](https://github.com/sprache/Sprache) - A tiny, friendly, C# parser construction library
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
@@ -438,7 +438,7 @@
 ## TypeScript 
 
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Responsive personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for de
+- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
@@ -501,7 +501,7 @@
 - [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Saifadin/postonents](https://github.com/Saifadin/postonents) - React meets Emails | ⚛️ x 📧= 🔥
-- [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
+- [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [AlexTorresDev/custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [immerjs/use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
@@ -562,7 +562,7 @@
 - [HWliao/mng](https://github.com/HWliao/mng) - my angular templates and tools
 - [DimaLiLongJi/InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm framework.一个类 angular 前端框架。https://dimalilongji.github.io/InDiv
 - [maxisam/ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## Vim Script 
