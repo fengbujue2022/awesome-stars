@@ -144,7 +144,7 @@
 - [MatanShahar/IntelliSun](https://github.com/MatanShahar/IntelliSun) - 
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
-- [dotnet/extensions](https://github.com/dotnet/extensions) - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
+- [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - :bus: Simple and lean service bus implementation for .NET
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
