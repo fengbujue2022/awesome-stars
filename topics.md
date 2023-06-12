@@ -484,6 +484,7 @@
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
+- [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [samcook/RedLock.net](https://github.com/samcook/RedLock.net) - An implementation of the Redlock algorithm in C#
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
@@ -1085,7 +1086,6 @@
 - [codrops/PageTransitions](https://github.com/codrops/PageTransitions) - A showcase collection of various page transition effects using CSS animations.
 - [SergeyTeplyakov/EduAsync](https://github.com/SergeyTeplyakov/EduAsync) - 
 - [MatanShahar/IntelliSun](https://github.com/MatanShahar/IntelliSun) - 
-- [dotnet/extensions](https://github.com/dotnet/extensions) - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - :bus: Simple and lean service bus implementation for .NET
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [elastic/elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
