@@ -33,7 +33,7 @@
 
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 
 ## C# # 
 
