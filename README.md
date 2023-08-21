@@ -245,6 +245,8 @@
 
 ## JavaScript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in plain JavaScript with zero dependencies.
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -286,7 +288,7 @@
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [eveningwater/my-web-projects](https://github.com/eveningwater/my-web-projects) - my web projects
 - [dependents/node-dependency-tree](https://github.com/dependents/node-dependency-tree) - Get the dependency tree of a module
-- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [guybedford/es-module-lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
@@ -377,7 +379,6 @@
 
 ## Others 
 
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [goto456/stopwords](https://github.com/goto456/stopwords) - 中文常用停用词表（哈工大停用词表、百度停用词表等）
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
@@ -409,6 +410,7 @@
 
 ## Python 
 
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
@@ -441,7 +443,6 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
-- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
