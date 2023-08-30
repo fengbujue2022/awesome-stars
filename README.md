@@ -40,7 +40,6 @@
 - [bcgit/bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
 - [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
 - [Antaris/RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
-- [pwj0528/BiliBiliTool](https://github.com/pwj0528/BiliBiliTool) - .Net 5 编写的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
 - [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - This repository has examples of broken patterns in ASP.NET Core applications
 - [dotnet-architecture/eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
@@ -56,7 +55,6 @@
 - [alastairtree/Hangfire.MaximumConcurrentExecutions](https://github.com/alastairtree/Hangfire.MaximumConcurrentExecutions) - Adds [MaximumConcurrentExecutions(n)] attribute to Hangfire.IO to throttle executions of a job
 - [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 - [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-- [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 - [axelheer/nein-linq](https://github.com/axelheer/nein-linq) - NeinLinq provides helpful extensions for using LINQ providers such as Entity Framework that support only a minor subset of .NET functions, reusing functions, rewriting queries, even making them null-s
 - [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 - [noseratio/AsyncEvents](https://github.com/noseratio/AsyncEvents) - C# events as asynchronous streams using System.Threading.Channels
@@ -90,7 +88,6 @@
 - [commandlineparser/commandline](https://github.com/commandlineparser/commandline) - The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support
 - [dotnet-script/dotnet-script](https://github.com/dotnet-script/dotnet-script) - Run C# scripts from the .NET CLI.
 - [TomaszRewak/C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications
-- [Senparc/Senparc.CO2NET](https://github.com/Senparc/Senparc.CO2NET) - 支持 .NET Framework & .NET Core 的公共基础扩展库
 - [i3arnon/ConcurrentHashSet](https://github.com/i3arnon/ConcurrentHashSet) - A ConcurrentHashSet implementation
 - [perrich/Hangfire.MemoryStorage](https://github.com/perrich/Hangfire.MemoryStorage) - A memory storage for Hangfire.
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
@@ -120,7 +117,6 @@
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 - [galamai/AspNetCore.Rendertron](https://github.com/galamai/AspNetCore.Rendertron) - ASP.net core middleware for GoogleChrome Rendertron https://github.com/GoogleChrome/rendertron.
-- [AlaricGilbert/BiliCommenter](https://github.com/AlaricGilbert/BiliCommenter) - A tool with gui that helps you grab the front row in new uploaded animates. - 哔哩哔哩新番抢楼机
 - [nbuilder/nbuilder](https://github.com/nbuilder/nbuilder) - Rapid generation of test objects in .NET
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [tmenier/Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
@@ -173,8 +169,6 @@
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
 - [ElderJames/shriek-fx](https://github.com/ElderJames/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provid
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
-- [ice-ko/QuartzNetJob](https://github.com/ice-ko/QuartzNetJob) - Asp.Net Core 2.0 后端任务管理
-- [geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
 - [Jimmey-Jiang/Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
 - [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore is an AOP-based cross platform framework for .NET Standard.
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
@@ -329,8 +323,6 @@
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [bjornharrtell/jsts](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
-- [MisterChangRay/Mtils2](https://github.com/MisterChangRay/Mtils2) - Mtils是一套前端辅助代码集合，提供常用的数据校验、数据加密、扩展函数、便捷函数。
-- [AlloyTeam/PhyTouch](https://github.com/AlloyTeam/PhyTouch) - Smooth scrolling, rotation, pull to refresh, page transition and any motion for the web - 丝般顺滑的触摸运动方案
 
 ## Kotlin 
 
@@ -372,11 +364,9 @@
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [dotnet/standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
-- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [Famolus/awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 - [langyo/cppworld](https://github.com/langyo/cppworld) - [WIP]《这是 C++ 的世界！》电子书仓库
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-- [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 
