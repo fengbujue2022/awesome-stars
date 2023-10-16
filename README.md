@@ -427,7 +427,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Des
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
@@ -498,7 +498,7 @@
 - [jaredLunde/masonic](https://github.com/jaredLunde/masonic) - 🧱 High-performance masonry layouts for React
 - [react-component/util](https://github.com/react-component/util) - Common Utils For React Component
 - [vborodulin/add-event-to-calendar](https://github.com/vborodulin/add-event-to-calendar) - Generate invitation calendar link. Supported services are Google Calendar, Microsoft Outlook, and Yahoo! Calendar (Apple Calendar and download .ics are done through the iCal format).
-- [MasonLe2497/progress-react-native](https://github.com/MasonLe2497/progress-react-native) - Progress using react native reanimated and svg
+- [masonle2x2/progress-react-native](https://github.com/masonle2x2/progress-react-native) - Progress using react native reanimated and svg
 - [peter-jozsa/react-native-web-image-loader](https://github.com/peter-jozsa/react-native-web-image-loader) - A webpack image loader for react-native-web
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [dividab/tsconfig-paths-webpack-plugin](https://github.com/dividab/tsconfig-paths-webpack-plugin) - Load modules according to tsconfig paths in webpack.
