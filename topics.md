@@ -984,7 +984,7 @@
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [alastairtree/Hangfire.MaximumConcurrentExecutions](https://github.com/alastairtree/Hangfire.MaximumConcurrentExecutions) - Adds [MaximumConcurrentExecutions(n)] attribute to Hangfire.IO to throttle executions of a job
-- [masonle2x2/progress-react-native](https://github.com/masonle2x2/progress-react-native) - Progress using react native reanimated and svg
+- [ngocle2497/progress-react-native](https://github.com/ngocle2497/progress-react-native) - Progress using react native reanimated and svg
 - [react-native-web-community/react-native-web-webview](https://github.com/react-native-web-community/react-native-web-webview) - React Native for Web implementation of RN's WebView
 - [peter-jozsa/react-native-web-image-loader](https://github.com/peter-jozsa/react-native-web-image-loader) - A webpack image loader for react-native-web
 - [codrops/RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
