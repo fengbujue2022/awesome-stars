@@ -143,6 +143,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -357,7 +358,7 @@
 - [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 - [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 17, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
-- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
 - [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
@@ -472,7 +473,7 @@
 - [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [tmenier/Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
-- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
@@ -1162,7 +1163,7 @@
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1212,7 +1213,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -1380,7 +1381,7 @@
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
 - [dependents/node-dependency-tree](https://github.com/dependents/node-dependency-tree) - Get the dependency tree of a module
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
@@ -1446,6 +1447,10 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
+## web-development 
+
+- [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
+
 ## webapp 
 
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
@@ -1453,7 +1458,7 @@
 ## webpack 
 
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
 - [Kiyozz/electron-esbuild](https://github.com/Kiyozz/electron-esbuild) - Create Electron apps using esbuild and your favorite frontend tool
