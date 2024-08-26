@@ -27,6 +27,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -312,6 +313,11 @@
 ## c 
 
 - [kekyo/IL2C](https://github.com/kekyo/IL2C) - IL2C - A translator for ECMA-335 CIL/MSIL to C language.
+
+## c-plus-plus 
+
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## chatgpt 
 
