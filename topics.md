@@ -111,6 +111,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -263,6 +264,7 @@
 
 ## awesome-list 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [lukasmasuch/best-of-react](https://github.com/lukasmasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -675,7 +677,6 @@
 ## hacktoberfest 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -1027,6 +1028,14 @@
 - [bcgit/bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) - A simple React Native library, enabling the creation of fully customized header for your iOS and Android apps.
+
+## openai 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 
 ## opencv 
 
