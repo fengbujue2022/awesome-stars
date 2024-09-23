@@ -217,6 +217,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [januwA/css](https://github.com/januwA/css) - css
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
