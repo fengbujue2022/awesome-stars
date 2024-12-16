@@ -1053,7 +1053,7 @@
 ## others 
 
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
