@@ -62,6 +62,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -597,6 +598,10 @@
 ## express 
 
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+
+## facebook 
+
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
 ## finance 
 
