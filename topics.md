@@ -1139,7 +1139,7 @@
 - [AiursoftWeb/AiurVersionControl](https://github.com/AiursoftWeb/AiurVersionControl) - Mirror of https://gitlab.aiursoft.cn/aiursoft/aiurversioncontrol
 - [react-component/util](https://github.com/react-component/util) - Common Utils For React Component
 - [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [alastairtree/Hangfire.MaximumConcurrentExecutions](https://github.com/alastairtree/Hangfire.MaximumConcurrentExecutions) - Adds [MaximumConcurrentExecutions(n)] attribute to Hangfire.IO to throttle executions of a job
 - [react-native-web-community/react-native-web-webview](https://github.com/react-native-web-community/react-native-web-webview) - React Native for Web implementation of RN's WebView
