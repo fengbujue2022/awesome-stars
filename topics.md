@@ -39,7 +39,6 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
-- [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
@@ -238,7 +237,6 @@
 ## artificial-intelligence 
 
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 
 ## aspnet 
 
@@ -397,10 +395,6 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-
-## cryptocurrency 
-
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 
 ## cryptography 
 
