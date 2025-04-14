@@ -51,6 +51,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
+- [development](#development)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -493,6 +494,10 @@
 
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+
+## development 
+
+- [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 
 ## devops 
 
