@@ -1186,7 +1186,7 @@
 - [perrich/Hangfire.MemoryStorage](https://github.com/perrich/Hangfire.MemoryStorage) - A memory storage for Hangfire.
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [sovetskyfish/pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
-- [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Web Application ASP.NET 8 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices
+- [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices
 - [dotnet/standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
 - [Martin1994/JsonJitSerializer](https://github.com/Martin1994/JsonJitSerializer) - A JIT JSON Serializer for .NET Core 3.0
