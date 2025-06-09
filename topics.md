@@ -129,7 +129,6 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [quantitative-finance](#quantitative-finance)
-- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -190,6 +189,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## algorithm 
 
@@ -217,7 +217,7 @@
 - [sketch7/orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [TrilonIO/universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
 - [DynamicMapper/DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
 - [tomastrajan/angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
 - [maxisam/ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
@@ -423,7 +423,7 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2025
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modulith ecommerce system built on .NET
@@ -470,7 +470,7 @@
 ## data-visualization 
 
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## database 
 
@@ -479,7 +479,7 @@
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 
@@ -510,7 +510,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ## django 
@@ -526,7 +526,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 
@@ -558,7 +558,7 @@
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
 - [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [tmenier/Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
@@ -887,7 +887,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## library 
 
@@ -902,7 +902,7 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [AlexTorresDev/custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 
@@ -924,7 +924,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## macos 
 
@@ -967,7 +967,7 @@
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [alexandre-spieser/mongodb-generic-repository](https://github.com/alexandre-spieser/mongodb-generic-repository) - An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
 
 ## mongoose 
@@ -980,7 +980,7 @@
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [microsoft/ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet) - ApplicationInsights-dotnet
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
 
 ## mysql 
@@ -989,7 +989,7 @@
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 
@@ -1103,7 +1103,7 @@
 - [ecolomer/monitoring](https://github.com/ecolomer/monitoring) - Prometheus / Grafana monitoring stack using Docker
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [goto456/stopwords](https://github.com/goto456/stopwords) - 中文常用停用词表（哈工大停用词表、百度停用词表等）
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [gajus/liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser, serializer and search engine.
@@ -1275,7 +1275,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 
 ## privacy 
@@ -1323,10 +1323,6 @@
 ## quantitative-finance 
 
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-
-## raspberry-pi 
-
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 
 ## react 
 
@@ -1619,7 +1615,7 @@
 - [DynamicMapper/DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
 
 ## ubuntu 
 
