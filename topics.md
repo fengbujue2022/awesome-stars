@@ -737,7 +737,6 @@
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modulith ecommerce system built on .NET
-- [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 
