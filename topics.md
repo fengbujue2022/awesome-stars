@@ -176,6 +176,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [unity](#unity)
+- [video](#video)
 - [virtual-reality](#virtual-reality)
 - [visual-basic](#visual-basic)
 - [visual-studio-code](#visual-studio-code)
@@ -1170,6 +1171,8 @@
 
 ## others 
 
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [loks666/get_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)
 - [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
@@ -1739,6 +1742,10 @@
 - [Real-Serious-Games/C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 - [Real-Serious-Games/Fluent-State-Machine](https://github.com/Real-Serious-Games/Fluent-State-Machine) - Fluent API for creating state machines in C#
 - [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+
+## video 
+
+- [MatheusAvellar/gifski-win](https://github.com/MatheusAvellar/gifski-win) - 🌈 Convert videos to high-quality GIFs on your PC
 
 ## virtual-reality 
 
