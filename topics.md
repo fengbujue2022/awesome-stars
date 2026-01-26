@@ -243,7 +243,7 @@
 ## android 
 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -340,7 +340,7 @@
 ## babel 
 
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - 💠 Speed up your Webpack with esbuild ⚡️
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -543,7 +543,7 @@
 
 ## deno 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 
 ## deployment 
 
@@ -657,7 +657,7 @@
 
 ## eslint 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 - [mthadley/eslint-plugin-sort-destructure-keys](https://github.com/mthadley/eslint-plugin-sort-destructure-keys) - ESLint plugin to check if keys should be sorted in an object pattern.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -752,7 +752,7 @@
 
 ## gradle 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 
 ## graphql 
 
@@ -844,7 +844,7 @@
 ## ios 
 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -1218,7 +1218,7 @@
 - [shm-open/code-push-server](https://github.com/shm-open/code-push-server) - CodePush service is an app hot update service which is compatible with react-native-code-push and other CodePush clients
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [remorses/vitro](https://github.com/remorses/vitro) - Build and showcase your react components in isolation
-- [chialab/rna](https://github.com/chialab/rna) - 🚀 Build tools for modern web modules and applications.
+- [chialab/rna](https://github.com/chialab/rna) - 🚀 Build tools for Web Components.
 - [remorses/bundless](https://github.com/remorses/bundless) - Dev server and bundler based on esbuild
 - [eveningwater/my-web-projects](https://github.com/eveningwater/my-web-projects) - my web projects
 - [Antaris/RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
@@ -1492,7 +1492,7 @@
 ## react-native 
 
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
@@ -1633,7 +1633,7 @@
 
 ## storybook 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 
 ## svelte 
 
@@ -1687,7 +1687,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
@@ -1724,7 +1724,7 @@
 
 ## ubuntu 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 
 ## ui 
@@ -1819,7 +1819,7 @@
 
 ## xcode 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.71 ⚡ Tahoe arm64, Xcode 26.2 🍎 Ubuntu 24 🐧 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 7.6, JDK 19, NDK 25 🍎 Ruby 3 💎 Bison 2.3 🦬 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ La
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
 
 ## xml 
 
