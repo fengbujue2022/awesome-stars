@@ -243,7 +243,7 @@
 ## android 
 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -256,7 +256,7 @@
 - [sketch7/orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [TrilonIO/universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
 - [DynamicMapper/DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 21, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [tomastrajan/angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
 - [maxisam/ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
@@ -339,7 +339,7 @@
 ## babel 
 
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - 💠 Speed up your Webpack with esbuild ⚡️
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -467,7 +467,7 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 21, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2026
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modulith ecommerce system built on .NET
@@ -542,7 +542,7 @@
 
 ## deno 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 
 ## deployment 
 
@@ -613,7 +613,7 @@
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 21, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [tmenier/Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
@@ -656,7 +656,7 @@
 
 ## eslint 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [mthadley/eslint-plugin-sort-destructure-keys](https://github.com/mthadley/eslint-plugin-sort-destructure-keys) - ESLint plugin to check if keys should be sorted in an object pattern.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
@@ -751,7 +751,7 @@
 
 ## gradle 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 
 ## graphql 
 
@@ -843,7 +843,7 @@
 ## ios 
 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
@@ -1027,7 +1027,7 @@
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 21, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - :bus: Simple and lean service bus implementation for .NET
 
 ## microsoft 
@@ -1491,7 +1491,7 @@
 ## react-native 
 
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
@@ -1632,7 +1632,7 @@
 
 ## storybook 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 
 ## svelte 
 
@@ -1686,7 +1686,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
@@ -1723,7 +1723,7 @@
 
 ## ubuntu 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 
 ## ui 
@@ -1818,7 +1818,7 @@
 
 ## xcode 
 
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🚅  Turbo Modules 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Bab
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 
 ## xml 
 
