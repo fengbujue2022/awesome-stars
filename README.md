@@ -245,6 +245,7 @@
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in JavaScript with zero dependencies, with TypeScript support.
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS / Xcode 26.3 RC 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 cc
@@ -311,7 +312,7 @@
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [chocolatl/eh-parser](https://github.com/chocolatl/eh-parser) - 解析E站各个页面的元数据
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [WarnerHooh/babel-plugin-parameter-decorator](https://github.com/WarnerHooh/babel-plugin-parameter-decorator) - Function parameter decorator transform plugin for babel v7, just like typescript.
 - [GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
@@ -365,7 +366,7 @@
 
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [goto456/stopwords](https://github.com/goto456/stopwords) - 中文常用停用词表（哈工大停用词表、百度停用词表等）
 - [lukasmasuch/best-of-react](https://github.com/lukasmasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
@@ -454,7 +455,6 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [gajus/liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser, serializer and search engine.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
