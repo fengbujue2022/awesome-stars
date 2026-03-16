@@ -248,7 +248,7 @@
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.4 / Xcode 26.3 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.86 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 Tahoe / Xcode 26.4 🍎 Hermes V1 ⚙️ Fabric + Fiber 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Ba
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
