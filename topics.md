@@ -409,7 +409,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [Kiyozz/electron-esbuild](https://github.com/Kiyozz/electron-esbuild) - Create Electron apps using esbuild and your favorite frontend tool
+- [Kiyozz/electron-tsdown](https://github.com/Kiyozz/electron-tsdown) - Create Electron apps using tsdown and vite
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 ## command-line 
@@ -643,7 +643,7 @@
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
-- [Kiyozz/electron-esbuild](https://github.com/Kiyozz/electron-esbuild) - Create Electron apps using esbuild and your favorite frontend tool
+- [Kiyozz/electron-tsdown](https://github.com/Kiyozz/electron-tsdown) - Create Electron apps using tsdown and vite
 - [AlexTorresDev/custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -1185,7 +1185,7 @@
 
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a colleague — they'll pick up the work, write code, report blockers, and update statuses autonomously.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -1810,7 +1810,6 @@
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - 💠 Speed up your Webpack with esbuild ⚡️
-- [Kiyozz/electron-esbuild](https://github.com/Kiyozz/electron-esbuild) - Create Electron apps using esbuild and your favorite frontend tool
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 
