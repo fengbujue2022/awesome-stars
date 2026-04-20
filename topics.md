@@ -1310,7 +1310,7 @@
 - [Winson-Ng/EasyHttpClient](https://github.com/Winson-Ng/EasyHttpClient) - C# HttpClient Library
 - [JiarongGu/BanBrick.TypeScript.CodeGenerator](https://github.com/JiarongGu/BanBrick.TypeScript.CodeGenerator) - C# to TypeScript Code Generator Libarary for WebApi
 - [tejacques/Deque](https://github.com/tejacques/Deque) - A C# Deque class
-- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Library for conversion between Traditional and Simplified Chinese
 - [GowenGit/meepo](https://github.com/GowenGit/meepo) - .NET Core duplex framework using sockets
 - [CallStackRunner/RollbackableOperations](https://github.com/CallStackRunner/RollbackableOperations) - A .NET library for operations execution/rollback management
 - [sprache/Sprache](https://github.com/sprache/Sprache) - A tiny, friendly, C# parser construction library
