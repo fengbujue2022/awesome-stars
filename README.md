@@ -34,7 +34,6 @@
 
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## C# # 
 
@@ -217,6 +216,7 @@
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## HTML 
 
@@ -248,7 +248,7 @@
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [react/metro](https://github.com/react/metro) - 🚇 The JavaScript bundler for React Native
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.87 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 Tahoe / Xcode 26.5 🍎 Hermes V1 ⚙️ Fabric + Fiber 🏎️  Turbo/Nitro 💨 TS 6 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Ba
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.87 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 Tahoe / Xcode 27 🍎 Hermes V1 ⚙️ Fabric + Fiber 🏎️  Turbo/Nitro 💨 TS 6 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babe
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
@@ -424,6 +424,7 @@
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 ## Shell 
 
@@ -552,7 +553,6 @@
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 - [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) - A simple React Native library, enabling the creation of fully customized header for your iOS and Android apps.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
-- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [cevek/ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
