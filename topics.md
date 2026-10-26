@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -246,8 +247,13 @@
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
+## ai-agent 
+
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
+
 ## ai-agents 
 
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -330,6 +336,7 @@
 
 ## awesome 
 
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [lukasmasuch/best-of-react](https://github.com/lukasmasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
@@ -344,6 +351,7 @@
 
 ## awesome-list 
 
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
@@ -597,7 +605,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
@@ -950,7 +958,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [react/metro](https://github.com/react/metro) - 🚇 The JavaScript bundler for React Native
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -1145,7 +1153,7 @@
 
 ## mongodb 
 
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -1170,7 +1178,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
@@ -1217,7 +1225,7 @@
 ## nodejs 
 
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -1453,7 +1461,7 @@
 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 
@@ -1709,7 +1717,7 @@
 
 ## sql-server 
 
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
@@ -1717,7 +1725,7 @@
 ## sqlite 
 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 
 ## stable-diffusion 
@@ -1781,7 +1789,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.88 📱 React 19.3 ⚛️ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 26 🐧 Xcode 27 🍎 Hermes V1 ⚙️ Fiber / Fabric / Yoga 🏎️  Turbo / Nitro 💨 TS 7 ✅ Kotlin 2.2, JDK 25, NDK 27 🤖 Yarn 4 📦 ESLint 🧹 Prettier 
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
